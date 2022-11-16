@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hello Hello :wave:
+- 🔭 I’m currently working on web exploration :alien:
+- 📫 How to reach me: ggencas@gmail.com
+- ⚡ Fun fact: can't think of the good1 yet :sob:
 <!--
 **ggencas/ggencas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
